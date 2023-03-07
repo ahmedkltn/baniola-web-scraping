@@ -20,7 +20,7 @@ This website consist of 4 main components :
 
 here’s a preview of the website :
 
-![Screenshot 2023-02-27 222412.png](Web%20Scraping%20Baniola%20tn%20to%20Collect%20Information%20abo%202b1a8f5232f14dd0b7e192518558690a/Screenshot_2023-02-27_222412.png)
+![Screenshot 2023-02-27 222412.png](img/Screenshot_2023-02-27_222412.png)
 
 After taking a look on the html code we can see that all the cars are contained in div :
 
@@ -30,7 +30,7 @@ After taking a look on the html code we can see that all the cars are contained 
 </div>
 ```
 
-![Screenshot 2023-02-27 222620.png](Web%20Scraping%20Baniola%20tn%20to%20Collect%20Information%20abo%202b1a8f5232f14dd0b7e192518558690a/Screenshot_2023-02-27_222620.png)
+![Screenshot 2023-02-27 222620.png](img/Screenshot_2023-02-27_222620.png)
 
 And each announcement is contained in a div :
 
@@ -45,15 +45,15 @@ And each announcement is contained in a div :
 2. Upon clicking the link, we can then access all the information pertaining to the specific car.
 - Steps to get the link of the car :
 
-![Screenshot 2023-02-27 224314.png](Web%20Scraping%20Baniola%20tn%20to%20Collect%20Information%20abo%202b1a8f5232f14dd0b7e192518558690a/Screenshot_2023-02-27_224314.png)
+![Screenshot 2023-02-27 224314.png](img/Screenshot_2023-02-27_224314.png)
 
 - We will take `**General informations /``Equipment`**
 
-![Screenshot 2023-02-27 224740.png](Web%20Scraping%20Baniola%20tn%20to%20Collect%20Information%20abo%202b1a8f5232f14dd0b7e192518558690a/Screenshot_2023-02-27_224740.png)
+![Screenshot 2023-02-27 224740.png](img/Screenshot_2023-02-27_224740.png)
 
 ### Getting all the information needed from the website :
 
-![Screenshot 2023-02-27 231906.png](Web%20Scraping%20Baniola%20tn%20to%20Collect%20Information%20abo%202b1a8f5232f14dd0b7e192518558690a/Screenshot_2023-02-27_231906.png)
+![Screenshot 2023-02-27 231906.png](img/Screenshot_2023-02-27_231906.png)
 
 > The final task is to develop a Python script capable of extracting data for all cars from the website through web scraping.
 > 
