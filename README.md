@@ -1,12 +1,5 @@
 # Web Scraping Baniola.tn to Collect Information about Used Cars
 
-Created: February 27, 2023 10:12 PM
-Created By: Ahmed Kl
-Last Edited By: Ahmed Kl
-Last Edited Time: March 7, 2023 12:18 PM
-Status: Archived
-Type: Technical Spec
-
 # Summary
 
 Gain knowledge about the website [baniola.tn](http://baniola.tn/) and acquire the skills to perform web scraping on it.
